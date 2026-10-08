@@ -25,4 +25,4 @@ jobs:
 
       - name: Run Pylint
         run: |
-          pylint student.py
+          pylint test.py
